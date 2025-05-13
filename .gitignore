@@ -1,0 +1,21 @@
+# Build results
+x64/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.ipdb
+*.iobj
+*.log
+*.tlog
+*.lastbuildstate
+*.user
+*.sdf
+*.VC.db
+
+# VS folders
+.vs/
+*.VC.opendb
+
+# Installer output
+Output/
