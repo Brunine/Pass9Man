@@ -2,7 +2,7 @@
 
 Gerenciador de senhas moderno com GUI em C++ + ImGui + OpenSSL.
 
-<img src=https://s14.gifyu.com/images/bsLX0.gif>
+![Descrição opcional](PASS9MAN_VIDEO2.gif)
 
 ## ✨ Recursos
 
