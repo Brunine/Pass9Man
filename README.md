@@ -1,6 +1,6 @@
 # Pass9Man 🔐
 
-Gerenciador de senhas moderno com GUI em C++ + ImGui + OpenSSL.
+Gerenciador de senhas moderno Open-Source em C++.
 
 ![Descrição opcional](assets/PASS9MAN_VIDEO2.gif)
 
