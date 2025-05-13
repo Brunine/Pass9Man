@@ -23,7 +23,7 @@ Requisitos:
 
 ## 📦 Instalador
 
-Um arquivo executável do instalador será disponibilizado em breve...
+Caso não queira compilar, clique <a href=https://github.com/Brunine/Pass9Man/raw/refs/heads/master/assets/Pass9Man_Installer.exe>AQUI!
 
 ## 📄 Licença
 
