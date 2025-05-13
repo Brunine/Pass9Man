@@ -2,6 +2,8 @@
 
 Gerenciador de senhas moderno com GUI em C++ + ImGui + OpenSSL.
 
+<img src=https://s14.gifyu.com/images/bsLX0.gif>
+
 ## ✨ Recursos
 
 - Armazenamento local criptografado com AES-256 (via OpenSSL)
